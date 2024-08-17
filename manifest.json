@@ -2,7 +2,7 @@
 	"name": "Pumpd",
 	"short_name": "Pumpd",
 	"description": "Gym app for gymbros.",
-	"start_url": "/",
+	"start_url": "/Pumpd",
 	"display": "standalone",
 	"background_color": "#ffffff",
 	"theme_color": "#000000",
