@@ -27,7 +27,7 @@ body{
     border-top-right-radius: 50px;
     width: 100vw;
     height: 8vh;
-    top: 92vh;
+    top: 90vh;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -81,12 +81,12 @@ body{
     flex-direction: column;
 }
 .item-text h2{
-    font-size: 35px;
+    font-size: 200%;
     color: rgb(216, 216, 216);
 }
 .item-text p{
     margin: 0;
-    font-size: 25px;
+    font-size: 150%;
     color: rgb(216, 216, 216);
 }
 .item1 img{
@@ -108,10 +108,10 @@ body{
     gap: 60%;
 }
 .item1 .bottom-info p{
-    font-size: 23px;
+    font-size: 150%;
     color: rgb(0, 102, 204);
 }
 .item1 .bottom-info span{
-    font-size: 23px;
+    font-size: 150%;
     color: rgb(0, 102, 204);
 }
